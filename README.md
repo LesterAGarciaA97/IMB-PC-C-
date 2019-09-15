@@ -1,2 +1,2 @@
-# IMB-PC-C-
+# IMB-PC-Csharp
 C# Course - IMB PC - Guatemala
