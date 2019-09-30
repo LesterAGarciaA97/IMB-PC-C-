@@ -1,0 +1,10 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estructura If Compuesto\bin\Debug\Estructura If Compuesto.exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estructura If Compuesto\bin\Debug\Estructura If Compuesto.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estructura If Compuesto\bin\Debug\Estructura If Compuesto.pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estructura If Compuesto\obj\Debug\Estructura If Compuesto.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estructura If Compuesto\obj\Debug\Estructura If Compuesto.pdb
+E:\Programacion C#\Clase 6\Ejercicios en clase\Estructura If Compuesto\Estructura If Compuesto\bin\Debug\Estructura If Compuesto.exe.config
+E:\Programacion C#\Clase 6\Ejercicios en clase\Estructura If Compuesto\Estructura If Compuesto\obj\Debug\Estructura If Compuesto.exe
+E:\Programacion C#\Clase 6\Ejercicios en clase\Estructura If Compuesto\Estructura If Compuesto\obj\Debug\Estructura If Compuesto.pdb
+E:\Programacion C#\Clase 6\Ejercicios en clase\Estructura If Compuesto\Estructura If Compuesto\bin\Debug\Estructura If Compuesto.exe
+E:\Programacion C#\Clase 6\Ejercicios en clase\Estructura If Compuesto\Estructura If Compuesto\bin\Debug\Estructura If Compuesto.pdb

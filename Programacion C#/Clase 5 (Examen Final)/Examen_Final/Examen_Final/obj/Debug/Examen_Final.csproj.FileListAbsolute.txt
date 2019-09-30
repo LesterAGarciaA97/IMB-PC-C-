@@ -1,0 +1,12 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final\bin\Debug\Examen_Final.exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final\bin\Debug\Examen_Final.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final\bin\Debug\Examen_Final.pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final\obj\Debug\Examen_Final.csprojResolveAssemblyReference.cache
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final\obj\Debug\Examen_Final.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final\obj\Debug\Examen_Final.pdb
+E:\Programacion C#\Clase 5\Examen_Final\Examen_Final\bin\Debug\Examen_Final.exe.config
+E:\Programacion C#\Clase 5\Examen_Final\Examen_Final\obj\Debug\Examen_Final.exe
+E:\Programacion C#\Clase 5\Examen_Final\Examen_Final\obj\Debug\Examen_Final.pdb
+E:\Programacion C#\Clase 5\Examen_Final\Examen_Final\bin\Debug\Examen_Final.exe
+E:\Programacion C#\Clase 5\Examen_Final\Examen_Final\bin\Debug\Examen_Final.pdb
+E:\Programacion C#\Clase 5\Examen_Final\Examen_Final\obj\Debug\Examen_Final.csprojResolveAssemblyReference.cache

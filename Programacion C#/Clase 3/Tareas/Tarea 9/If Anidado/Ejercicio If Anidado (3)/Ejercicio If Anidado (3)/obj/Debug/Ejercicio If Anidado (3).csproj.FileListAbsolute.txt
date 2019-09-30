@@ -1,0 +1,6 @@
+C:\Users\t213\Desktop\Ejercicio If Anidado (3)\Ejercicio If Anidado (3)\bin\Debug\Ejercicio If Anidado (3).exe.config
+C:\Users\t213\Desktop\Ejercicio If Anidado (3)\Ejercicio If Anidado (3)\bin\Debug\Ejercicio If Anidado (3).exe
+C:\Users\t213\Desktop\Ejercicio If Anidado (3)\Ejercicio If Anidado (3)\bin\Debug\Ejercicio If Anidado (3).pdb
+C:\Users\t213\Desktop\Ejercicio If Anidado (3)\Ejercicio If Anidado (3)\obj\Debug\Ejercicio If Anidado (3).csprojResolveAssemblyReference.cache
+C:\Users\t213\Desktop\Ejercicio If Anidado (3)\Ejercicio If Anidado (3)\obj\Debug\Ejercicio If Anidado (3).exe
+C:\Users\t213\Desktop\Ejercicio If Anidado (3)\Ejercicio If Anidado (3)\obj\Debug\Ejercicio If Anidado (3).pdb

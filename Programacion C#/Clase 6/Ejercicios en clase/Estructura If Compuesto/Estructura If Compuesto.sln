@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructura If Compuesto", "Estructura If Compuesto\Estructura If Compuesto.csproj", "{EB7C47A3-B96B-496D-BF07-C26550098B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB7C47A3-B96B-496D-BF07-C26550098B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7C47A3-B96B-496D-BF07-C26550098B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7C47A3-B96B-496D-BF07-C26550098B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7C47A3-B96B-496D-BF07-C26550098B69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Lester\Desktop\Número mayor (Arreglos)\Número mayor (Arreglos)\bin\Debug\Número mayor (Arreglos).exe.config
+C:\Users\Lester\Desktop\Número mayor (Arreglos)\Número mayor (Arreglos)\bin\Debug\Número mayor (Arreglos).exe
+C:\Users\Lester\Desktop\Número mayor (Arreglos)\Número mayor (Arreglos)\bin\Debug\Número mayor (Arreglos).pdb
+C:\Users\Lester\Desktop\Número mayor (Arreglos)\Número mayor (Arreglos)\obj\Debug\Número mayor (Arreglos).csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Número mayor (Arreglos)\Número mayor (Arreglos)\obj\Debug\Número mayor (Arreglos).exe
+C:\Users\Lester\Desktop\Número mayor (Arreglos)\Número mayor (Arreglos)\obj\Debug\Número mayor (Arreglos).pdb

@@ -1,0 +1,12 @@
+C:\Users\Lester\Desktop\Usando Write en lugar de WrtieLine\Usando Write en lugar de WrtieLine\bin\Debug\Usando Write en lugar de WrtieLine.exe.config
+C:\Users\Lester\Desktop\Usando Write en lugar de WrtieLine\Usando Write en lugar de WrtieLine\bin\Debug\Usando Write en lugar de WrtieLine.exe
+C:\Users\Lester\Desktop\Usando Write en lugar de WrtieLine\Usando Write en lugar de WrtieLine\bin\Debug\Usando Write en lugar de WrtieLine.pdb
+C:\Users\Lester\Desktop\Usando Write en lugar de WrtieLine\Usando Write en lugar de WrtieLine\obj\Debug\Usando Write en lugar de WrtieLine.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Usando Write en lugar de WrtieLine\Usando Write en lugar de WrtieLine\obj\Debug\Usando Write en lugar de WrtieLine.exe
+C:\Users\Lester\Desktop\Usando Write en lugar de WrtieLine\Usando Write en lugar de WrtieLine\obj\Debug\Usando Write en lugar de WrtieLine.pdb
+E:\Programacion C#\Clase 2\Tareas\Tarea 1\Usando Write en lugar de WrtieLine\Usando Write en lugar de WrtieLine\bin\Debug\Usando Write en lugar de WrtieLine.exe.config
+E:\Programacion C#\Clase 2\Tareas\Tarea 1\Usando Write en lugar de WrtieLine\Usando Write en lugar de WrtieLine\obj\Debug\Usando Write en lugar de WrtieLine.exe
+E:\Programacion C#\Clase 2\Tareas\Tarea 1\Usando Write en lugar de WrtieLine\Usando Write en lugar de WrtieLine\obj\Debug\Usando Write en lugar de WrtieLine.pdb
+E:\Programacion C#\Clase 2\Tareas\Tarea 1\Usando Write en lugar de WrtieLine\Usando Write en lugar de WrtieLine\bin\Debug\Usando Write en lugar de WrtieLine.exe
+E:\Programacion C#\Clase 2\Tareas\Tarea 1\Usando Write en lugar de WrtieLine\Usando Write en lugar de WrtieLine\bin\Debug\Usando Write en lugar de WrtieLine.pdb
+E:\Programacion C#\Clase 2\Tareas\Tarea 1\Usando Write en lugar de WrtieLine\Usando Write en lugar de WrtieLine\obj\Debug\Usando Write en lugar de WrtieLine.csprojResolveAssemblyReference.cache

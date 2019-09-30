@@ -1,0 +1,18 @@
+C:\Users\Lester\Desktop\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\bin\Debug\Tarea1_Lester_García_1003115.exe.config
+C:\Users\Lester\Desktop\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\bin\Debug\Tarea1_Lester_García_1003115.exe
+C:\Users\Lester\Desktop\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\bin\Debug\Tarea1_Lester_García_1003115.pdb
+C:\Users\Lester\Desktop\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\obj\Debug\Tarea1_Lester_García_1003115.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\obj\Debug\Tarea1_Lester_García_1003115.Form1.resources
+C:\Users\Lester\Desktop\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\obj\Debug\Tarea1_Lester_García_1003115.Properties.Resources.resources
+C:\Users\Lester\Desktop\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\obj\Debug\Tarea1_Lester_García_1003115.csproj.GenerateResource.Cache
+C:\Users\Lester\Desktop\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\obj\Debug\Tarea1_Lester_García_1003115.exe
+C:\Users\Lester\Desktop\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\obj\Debug\Tarea1_Lester_García_1003115.pdb
+E:\Programacion C#\Clase 6\Tareas\Laboratorio No.1\Laboratorio No. 1\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\bin\Debug\Tarea1_Lester_García_1003115.exe.config
+E:\Programacion C#\Clase 6\Tareas\Laboratorio No.1\Laboratorio No. 1\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\obj\Debug\Tarea1_Lester_García_1003115.exe
+E:\Programacion C#\Clase 6\Tareas\Laboratorio No.1\Laboratorio No. 1\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\obj\Debug\Tarea1_Lester_García_1003115.pdb
+E:\Programacion C#\Clase 6\Tareas\Laboratorio No.1\Laboratorio No. 1\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\bin\Debug\Tarea1_Lester_García_1003115.exe
+E:\Programacion C#\Clase 6\Tareas\Laboratorio No.1\Laboratorio No. 1\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\bin\Debug\Tarea1_Lester_García_1003115.pdb
+E:\Programacion C#\Clase 6\Tareas\Laboratorio No.1\Laboratorio No. 1\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\obj\Debug\Tarea1_Lester_García_1003115.csprojResolveAssemblyReference.cache
+E:\Programacion C#\Clase 6\Tareas\Laboratorio No.1\Laboratorio No. 1\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\obj\Debug\Tarea1_Lester_García_1003115.Form1.resources
+E:\Programacion C#\Clase 6\Tareas\Laboratorio No.1\Laboratorio No. 1\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\obj\Debug\Tarea1_Lester_García_1003115.Properties.Resources.resources
+E:\Programacion C#\Clase 6\Tareas\Laboratorio No.1\Laboratorio No. 1\Tarea1_Lester_García_1003115\Tarea1_Lester_García_1003115\obj\Debug\Tarea1_Lester_García_1003115.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estatuto If (If Compuesto)\bin\Debug\Estatuto If (If Compuesto).exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estatuto If (If Compuesto)\bin\Debug\Estatuto If (If Compuesto).exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estatuto If (If Compuesto)\bin\Debug\Estatuto If (If Compuesto).pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estatuto If (If Compuesto)\obj\Debug\Estatuto If (If Compuesto).csprojResolveAssemblyReference.cache
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estatuto If (If Compuesto)\obj\Debug\Estatuto If (If Compuesto).exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estatuto If (If Compuesto)\obj\Debug\Estatuto If (If Compuesto).pdb

@@ -1,0 +1,6 @@
+C:\Users\Lester\Desktop\Preguntar la cantidad de datos de un arreglo\Preguntar la cantidad de datos de un arreglo\bin\Debug\Preguntar la cantidad de datos de un arreglo.exe.config
+C:\Users\Lester\Desktop\Preguntar la cantidad de datos de un arreglo\Preguntar la cantidad de datos de un arreglo\bin\Debug\Preguntar la cantidad de datos de un arreglo.exe
+C:\Users\Lester\Desktop\Preguntar la cantidad de datos de un arreglo\Preguntar la cantidad de datos de un arreglo\bin\Debug\Preguntar la cantidad de datos de un arreglo.pdb
+C:\Users\Lester\Desktop\Preguntar la cantidad de datos de un arreglo\Preguntar la cantidad de datos de un arreglo\obj\Debug\Preguntar la cantidad de datos de un arreglo.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Preguntar la cantidad de datos de un arreglo\Preguntar la cantidad de datos de un arreglo\obj\Debug\Preguntar la cantidad de datos de un arreglo.exe
+C:\Users\Lester\Desktop\Preguntar la cantidad de datos de un arreglo\Preguntar la cantidad de datos de un arreglo\obj\Debug\Preguntar la cantidad de datos de un arreglo.pdb

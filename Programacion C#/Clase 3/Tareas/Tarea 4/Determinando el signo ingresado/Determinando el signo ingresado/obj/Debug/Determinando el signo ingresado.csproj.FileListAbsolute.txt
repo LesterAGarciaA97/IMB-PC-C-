@@ -1,0 +1,7 @@
+C:\Users\admin1\Desktop\Determinando el signo ingresado\Determinando el signo ingresado\bin\Debug\Determinando el signo ingresado.exe.config
+E:\Programacion C#\Clase 3\Tareas\Tarea 4\Determinando el signo ingresado\Determinando el signo ingresado\bin\Debug\Determinando el signo ingresado.exe.config
+E:\Programacion C#\Clase 3\Tareas\Tarea 4\Determinando el signo ingresado\Determinando el signo ingresado\bin\Debug\Determinando el signo ingresado.exe
+E:\Programacion C#\Clase 3\Tareas\Tarea 4\Determinando el signo ingresado\Determinando el signo ingresado\bin\Debug\Determinando el signo ingresado.pdb
+E:\Programacion C#\Clase 3\Tareas\Tarea 4\Determinando el signo ingresado\Determinando el signo ingresado\obj\Debug\Determinando el signo ingresado.csprojResolveAssemblyReference.cache
+E:\Programacion C#\Clase 3\Tareas\Tarea 4\Determinando el signo ingresado\Determinando el signo ingresado\obj\Debug\Determinando el signo ingresado.exe
+E:\Programacion C#\Clase 3\Tareas\Tarea 4\Determinando el signo ingresado\Determinando el signo ingresado\obj\Debug\Determinando el signo ingresado.pdb

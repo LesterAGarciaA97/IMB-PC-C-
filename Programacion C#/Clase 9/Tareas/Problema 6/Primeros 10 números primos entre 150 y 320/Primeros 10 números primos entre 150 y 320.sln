@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primeros 10 números primos entre 150 y 320", "Primeros 10 números primos entre 150 y 320\Primeros 10 números primos entre 150 y 320.csproj", "{7EFB86F9-2195-4D74-BD6E-C5D6CE095773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EFB86F9-2195-4D74-BD6E-C5D6CE095773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EFB86F9-2195-4D74-BD6E-C5D6CE095773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EFB86F9-2195-4D74-BD6E-C5D6CE095773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EFB86F9-2195-4D74-BD6E-C5D6CE095773}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

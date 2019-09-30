@@ -1,0 +1,12 @@
+C:\Users\admin1\Desktop\Calcular Media Aritmetica (Arreglos)_2\Calcular Media Aritmetica (Arreglos)_2\bin\Debug\Calcular Media Aritmetica (Arreglos)_2.exe.config
+C:\Users\admin1\Desktop\Calcular Media Aritmetica (Arreglos)_2\Calcular Media Aritmetica (Arreglos)_2\bin\Debug\Calcular Media Aritmetica (Arreglos)_2.exe
+C:\Users\admin1\Desktop\Calcular Media Aritmetica (Arreglos)_2\Calcular Media Aritmetica (Arreglos)_2\bin\Debug\Calcular Media Aritmetica (Arreglos)_2.pdb
+C:\Users\admin1\Desktop\Calcular Media Aritmetica (Arreglos)_2\Calcular Media Aritmetica (Arreglos)_2\obj\Debug\Calcular Media Aritmetica (Arreglos)_2.csprojResolveAssemblyReference.cache
+C:\Users\admin1\Desktop\Calcular Media Aritmetica (Arreglos)_2\Calcular Media Aritmetica (Arreglos)_2\obj\Debug\Calcular Media Aritmetica (Arreglos)_2.exe
+C:\Users\admin1\Desktop\Calcular Media Aritmetica (Arreglos)_2\Calcular Media Aritmetica (Arreglos)_2\obj\Debug\Calcular Media Aritmetica (Arreglos)_2.pdb
+E:\Programacion C#\Clase 8\Tareas\Calcular Media Aritmetica (Arreglos)_2\Calcular Media Aritmetica (Arreglos)_2\bin\Debug\Calcular Media Aritmetica (Arreglos)_2.exe.config
+E:\Programacion C#\Clase 8\Tareas\Calcular Media Aritmetica (Arreglos)_2\Calcular Media Aritmetica (Arreglos)_2\obj\Debug\Calcular Media Aritmetica (Arreglos)_2.exe
+E:\Programacion C#\Clase 8\Tareas\Calcular Media Aritmetica (Arreglos)_2\Calcular Media Aritmetica (Arreglos)_2\obj\Debug\Calcular Media Aritmetica (Arreglos)_2.pdb
+E:\Programacion C#\Clase 8\Tareas\Calcular Media Aritmetica (Arreglos)_2\Calcular Media Aritmetica (Arreglos)_2\bin\Debug\Calcular Media Aritmetica (Arreglos)_2.exe
+E:\Programacion C#\Clase 8\Tareas\Calcular Media Aritmetica (Arreglos)_2\Calcular Media Aritmetica (Arreglos)_2\bin\Debug\Calcular Media Aritmetica (Arreglos)_2.pdb
+E:\Programacion C#\Clase 8\Tareas\Calcular Media Aritmetica (Arreglos)_2\Calcular Media Aritmetica (Arreglos)_2\obj\Debug\Calcular Media Aritmetica (Arreglos)_2.csprojResolveAssemblyReference.cache

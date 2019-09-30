@@ -1,0 +1,6 @@
+C:\Users\Lester\Desktop\Cuadrado de un número\Cuadrado de un número\bin\Debug\Cuadrado de un número.exe.config
+C:\Users\Lester\Desktop\Cuadrado de un número\Cuadrado de un número\bin\Debug\Cuadrado de un número.exe
+C:\Users\Lester\Desktop\Cuadrado de un número\Cuadrado de un número\bin\Debug\Cuadrado de un número.pdb
+C:\Users\Lester\Desktop\Cuadrado de un número\Cuadrado de un número\obj\Debug\Cuadrado de un número.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Cuadrado de un número\Cuadrado de un número\obj\Debug\Cuadrado de un número.exe
+C:\Users\Lester\Desktop\Cuadrado de un número\Cuadrado de un número\obj\Debug\Cuadrado de un número.pdb

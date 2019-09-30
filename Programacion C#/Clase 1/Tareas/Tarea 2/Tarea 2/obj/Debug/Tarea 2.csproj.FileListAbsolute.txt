@@ -1,0 +1,15 @@
+C:\Users\admin1\Desktop\Tarea 2\Tarea 2\bin\Debug\Tarea 2.exe.config
+C:\Users\admin1\Desktop\Tarea 2\Tarea 2\bin\Debug\Tarea 2.exe
+C:\Users\admin1\Desktop\Tarea 2\Tarea 2\bin\Debug\Tarea 2.pdb
+C:\Users\admin1\Desktop\Tarea 2\Tarea 2\obj\Debug\Tarea 2.csprojResolveAssemblyReference.cache
+C:\Users\admin1\Desktop\Tarea 2\Tarea 2\obj\Debug\Tarea 2.exe
+C:\Users\admin1\Desktop\Tarea 2\Tarea 2\obj\Debug\Tarea 2.pdb
+E:\Programacion C#\Tarea 2\Tarea 2\bin\Debug\Tarea 2.exe.config
+E:\Programacion C#\Tarea 2\Tarea 2\obj\Debug\Tarea 2.exe
+E:\Programacion C#\Tarea 2\Tarea 2\obj\Debug\Tarea 2.pdb
+E:\Programacion C#\Tarea 2\Tarea 2\bin\Debug\Tarea 2.exe
+E:\Programacion C#\Tarea 2\Tarea 2\bin\Debug\Tarea 2.pdb
+E:\Programacion C#\Tarea 2\Tarea 2\obj\Debug\Tarea 2.csprojResolveAssemblyReference.cache
+E:\Programacion C#\Clase 1\Tarea 2\Tarea 2\bin\Debug\Tarea 2.exe.config
+E:\Programacion C#\Clase 1\Tarea 2\Tarea 2\obj\Debug\Tarea 2.exe
+E:\Programacion C#\Clase 1\Tarea 2\Tarea 2\obj\Debug\Tarea 2.pdb

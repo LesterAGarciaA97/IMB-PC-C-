@@ -1,0 +1,12 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ingreso de dos números\bin\Debug\Ingreso de dos números.exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ingreso de dos números\bin\Debug\Ingreso de dos números.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ingreso de dos números\bin\Debug\Ingreso de dos números.pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ingreso de dos números\obj\Debug\Ingreso de dos números.csprojResolveAssemblyReference.cache
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ingreso de dos números\obj\Debug\Ingreso de dos números.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ingreso de dos números\obj\Debug\Ingreso de dos números.pdb
+E:\Programacion C#\Clase 7\Tareas\Ingreso de dos números\Ingreso de dos números\bin\Debug\Ingreso de dos números.exe.config
+E:\Programacion C#\Clase 7\Tareas\Ingreso de dos números\Ingreso de dos números\obj\Debug\Ingreso de dos números.exe
+E:\Programacion C#\Clase 7\Tareas\Ingreso de dos números\Ingreso de dos números\obj\Debug\Ingreso de dos números.pdb
+F:\Programacion C#\Clase 7\Tareas\Ingreso de dos números\Ingreso de dos números\bin\Debug\Ingreso de dos números.exe.config
+F:\Programacion C#\Clase 7\Tareas\Ingreso de dos números\Ingreso de dos números\obj\Debug\Ingreso de dos números.exe
+F:\Programacion C#\Clase 7\Tareas\Ingreso de dos números\Ingreso de dos números\obj\Debug\Ingreso de dos números.pdb

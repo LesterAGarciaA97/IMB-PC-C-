@@ -1,0 +1,6 @@
+C:\Users\Lester\Desktop\Orden inverso de un arreglo\Orden inverso de un arreglo\bin\Debug\Orden inverso de un arreglo.exe.config
+C:\Users\Lester\Desktop\Orden inverso de un arreglo\Orden inverso de un arreglo\bin\Debug\Orden inverso de un arreglo.exe
+C:\Users\Lester\Desktop\Orden inverso de un arreglo\Orden inverso de un arreglo\bin\Debug\Orden inverso de un arreglo.pdb
+C:\Users\Lester\Desktop\Orden inverso de un arreglo\Orden inverso de un arreglo\obj\Debug\Orden inverso de un arreglo.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Orden inverso de un arreglo\Orden inverso de un arreglo\obj\Debug\Orden inverso de un arreglo.exe
+C:\Users\Lester\Desktop\Orden inverso de un arreglo\Orden inverso de un arreglo\obj\Debug\Orden inverso de un arreglo.pdb

@@ -1,0 +1,110 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Operaciones_matemáticas
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Operaciones aritméticas básicas");
+            Console.ReadLine();
+            double Num1;
+            double Num2;
+            double Suma;
+            Console.WriteLine("Suma");
+            Console.ReadLine();
+            Console.WriteLine("Ingrese un número");
+            Num1 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Ingrese un segundo número");
+            Num2 = Convert.ToDouble(Console.ReadLine());
+            Suma = Num1 + Num2;
+            Console.WriteLine("La suma de los números es: " + Suma);
+            Console.ReadLine();
+            double Resta;
+            Console.WriteLine("Resta");
+            Console.ReadLine();
+            Console.WriteLine("Ingrese un número");
+            Num1 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Ingrese un segundo número");
+            Num2 = Convert.ToDouble(Console.ReadLine());
+            Resta = Num1 - Num2;
+            Console.WriteLine("La resta de los números es: " + Resta);
+            Console.ReadLine();
+            double Multiplicacion;
+            Console.WriteLine("Multiplicación");
+            Console.ReadLine();
+            Console.WriteLine("Ingrese un número");
+            Num1 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Ingrese un segundo número");
+            Num2 = Convert.ToDouble(Console.ReadLine());
+            Multiplicacion = Num1 * Num2;
+            Console.WriteLine("La multiplicación de los números es: " + Multiplicacion);
+            Console.ReadLine();
+            double Division;
+            Console.WriteLine("División");
+            Console.ReadLine();
+            Console.WriteLine("Ingrese un número");
+            Num1 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Ingrese un segundo número");
+            Num2 = Convert.ToDouble(Console.ReadLine());
+            Division = Num1 / Num2;
+            Console.WriteLine("La división de los números es: " + Division);
+            Console.ReadLine();
+            double Resultado1;
+            Console.WriteLine("Elevado al cubo");
+            Console.ReadLine();
+            Console.WriteLine("Ingrese un número");
+            Num1 = Convert.ToDouble(Console.ReadLine());
+            Resultado1 = Math.Pow(Num1, 3);
+            Console.WriteLine("El resultado de elevar al cubo el número es: " + Resultado1);
+            Console.ReadLine();
+            double Resultado2;
+            Console.WriteLine("Raíz cuadrada");
+            Console.ReadLine();
+            Console.WriteLine("Ingrese un número");
+            Num1 = Convert.ToDouble(Console.ReadLine());
+            Resultado2 = Math.Sqrt(Num1);
+            Console.WriteLine("El resultado operar la raiz cuadrada es: " + Resultado2);
+            Console.ReadLine();
+            double Resultado3;
+            double Potencia;
+            Console.WriteLine("Elevar a una potencia");
+            Console.ReadLine();
+            Console.WriteLine("Ingrese un número");
+            Num1 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Ingrese una potencia a la cual quiere elevar el número");
+            Potencia = Convert.ToDouble(Console.ReadLine());
+            Resultado3 = Math.Pow(Num1, Potencia);
+            Console.WriteLine("El resultado de elevar a una potencia es: " + Resultado3);
+            Console.ReadLine();
+            double Resultado4;
+            Console.WriteLine("Funcion Seno");
+            Console.ReadLine();
+            Console.WriteLine("Ingrese un número");
+            Num1 = Convert.ToDouble(Console.ReadLine());
+            Resultado4 = Math.Sin(Num1);
+            Console.WriteLine("El resultado de la función Seno es: " + Resultado4);
+            Console.ReadLine();
+            double Resultado5;
+            Console.WriteLine("Coseno");
+            Console.ReadLine();
+            Console.WriteLine("Ingrese un número");
+            Num1 = Convert.ToDouble(Console.ReadLine());
+            Resultado5 = Math.Cos(Num1);
+            Console.WriteLine("El resultado de la función Coseno es: " + Resultado5);
+            Console.ReadLine();
+            double Resultado6;
+            Console.WriteLine("Tangente");
+            Console.ReadLine();
+            Console.WriteLine("Ingrese un número");
+            Num1 = Convert.ToDouble(Console.ReadLine());
+            Resultado6 = Math.Tan(Num1);
+            Console.WriteLine("El resultado de la función Tangente es: " + Resultado6);
+            Console.ReadLine();
+        }
+    }
+}

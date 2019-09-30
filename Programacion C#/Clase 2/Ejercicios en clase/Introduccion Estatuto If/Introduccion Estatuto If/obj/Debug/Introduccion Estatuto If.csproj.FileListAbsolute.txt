@@ -1,0 +1,9 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Introduccion Estatuto If\bin\Debug\Introduccion Estatuto If.exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Introduccion Estatuto If\bin\Debug\Introduccion Estatuto If.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Introduccion Estatuto If\bin\Debug\Introduccion Estatuto If.pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Introduccion Estatuto If\obj\Debug\Introduccion Estatuto If.csprojResolveAssemblyReference.cache
+C:\Users\programacion en\AppData\Local\Temporary Projects\Introduccion Estatuto If\obj\Debug\Introduccion Estatuto If.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Introduccion Estatuto If\obj\Debug\Introduccion Estatuto If.pdb
+E:\Programacion C#\Clase 2\Introduccion Estatuto If\Introduccion Estatuto If\bin\Debug\Introduccion Estatuto If.exe.config
+E:\Programacion C#\Clase 2\Introduccion Estatuto If\Introduccion Estatuto If\obj\Debug\Introduccion Estatuto If.exe
+E:\Programacion C#\Clase 2\Introduccion Estatuto If\Introduccion Estatuto If\obj\Debug\Introduccion Estatuto If.pdb

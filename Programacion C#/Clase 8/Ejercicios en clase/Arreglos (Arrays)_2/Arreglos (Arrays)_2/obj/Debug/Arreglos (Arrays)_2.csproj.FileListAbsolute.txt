@@ -1,0 +1,5 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Arreglos (Arrays)_2\bin\Debug\Arreglos (Arrays)_2.exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Arreglos (Arrays)_2\bin\Debug\Arreglos (Arrays)_2.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Arreglos (Arrays)_2\bin\Debug\Arreglos (Arrays)_2.pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Arreglos (Arrays)_2\obj\Debug\Arreglos (Arrays)_2.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Arreglos (Arrays)_2\obj\Debug\Arreglos (Arrays)_2.pdb

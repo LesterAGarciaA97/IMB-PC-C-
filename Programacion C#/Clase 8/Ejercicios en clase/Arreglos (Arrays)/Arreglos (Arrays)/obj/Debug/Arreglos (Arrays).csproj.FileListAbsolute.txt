@@ -1,0 +1,6 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Arreglos (Arrays)\bin\Debug\Arreglos (Arrays).exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Arreglos (Arrays)\bin\Debug\Arreglos (Arrays).exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Arreglos (Arrays)\bin\Debug\Arreglos (Arrays).pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Arreglos (Arrays)\obj\Debug\Arreglos (Arrays).csprojResolveAssemblyReference.cache
+C:\Users\programacion en\AppData\Local\Temporary Projects\Arreglos (Arrays)\obj\Debug\Arreglos (Arrays).exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Arreglos (Arrays)\obj\Debug\Arreglos (Arrays).pdb

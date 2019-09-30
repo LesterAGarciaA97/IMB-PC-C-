@@ -1,0 +1,12 @@
+C:\Users\t213\Desktop\Ejercicio If básico (1)\Ejercicio If básico (1)\bin\Debug\Ejercicio If básico (1).exe.config
+C:\Users\t213\Desktop\Ejercicio If básico (1)\Ejercicio If básico (1)\bin\Debug\Ejercicio If básico (1).exe
+C:\Users\t213\Desktop\Ejercicio If básico (1)\Ejercicio If básico (1)\bin\Debug\Ejercicio If básico (1).pdb
+C:\Users\t213\Desktop\Ejercicio If básico (1)\Ejercicio If básico (1)\obj\Debug\Ejercicio If básico (1).csprojResolveAssemblyReference.cache
+C:\Users\t213\Desktop\Ejercicio If básico (1)\Ejercicio If básico (1)\obj\Debug\Ejercicio If básico (1).exe
+C:\Users\t213\Desktop\Ejercicio If básico (1)\Ejercicio If básico (1)\obj\Debug\Ejercicio If básico (1).pdb
+D:\Programacion C#\Clase 3\Tareas\Tarea 9\If Básico\Ejercicio If básico (1)\Ejercicio If básico (1)\bin\Debug\Ejercicio If básico (1).exe.config
+D:\Programacion C#\Clase 3\Tareas\Tarea 9\If Básico\Ejercicio If básico (1)\Ejercicio If básico (1)\bin\Debug\Ejercicio If básico (1).exe
+D:\Programacion C#\Clase 3\Tareas\Tarea 9\If Básico\Ejercicio If básico (1)\Ejercicio If básico (1)\bin\Debug\Ejercicio If básico (1).pdb
+D:\Programacion C#\Clase 3\Tareas\Tarea 9\If Básico\Ejercicio If básico (1)\Ejercicio If básico (1)\obj\Debug\Ejercicio If básico (1).csprojResolveAssemblyReference.cache
+D:\Programacion C#\Clase 3\Tareas\Tarea 9\If Básico\Ejercicio If básico (1)\Ejercicio If básico (1)\obj\Debug\Ejercicio If básico (1).exe
+D:\Programacion C#\Clase 3\Tareas\Tarea 9\If Básico\Ejercicio If básico (1)\Ejercicio If básico (1)\obj\Debug\Ejercicio If básico (1).pdb

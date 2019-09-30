@@ -1,0 +1,6 @@
+C:\Users\Lester\Desktop\Determinar cual número es mayor\Determinar cual número es mayor\bin\Debug\Determinar cual número es mayor.exe.config
+C:\Users\Lester\Desktop\Determinar cual número es mayor\Determinar cual número es mayor\bin\Debug\Determinar cual número es mayor.exe
+C:\Users\Lester\Desktop\Determinar cual número es mayor\Determinar cual número es mayor\bin\Debug\Determinar cual número es mayor.pdb
+C:\Users\Lester\Desktop\Determinar cual número es mayor\Determinar cual número es mayor\obj\Debug\Determinar cual número es mayor.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Determinar cual número es mayor\Determinar cual número es mayor\obj\Debug\Determinar cual número es mayor.exe
+C:\Users\Lester\Desktop\Determinar cual número es mayor\Determinar cual número es mayor\obj\Debug\Determinar cual número es mayor.pdb

@@ -1,0 +1,10 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_6\bin\Debug\Examen_Final_Problema_6.exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_6\bin\Debug\Examen_Final_Problema_6.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_6\bin\Debug\Examen_Final_Problema_6.pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_6\obj\Debug\Examen_Final_Problema_6.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_6\obj\Debug\Examen_Final_Problema_6.pdb
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_6\Examen_Final_Problema_6\bin\Debug\Examen_Final_Problema_6.exe.config
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_6\Examen_Final_Problema_6\obj\Debug\Examen_Final_Problema_6.exe
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_6\Examen_Final_Problema_6\obj\Debug\Examen_Final_Problema_6.pdb
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_6\Examen_Final_Problema_6\bin\Debug\Examen_Final_Problema_6.exe
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_6\Examen_Final_Problema_6\bin\Debug\Examen_Final_Problema_6.pdb

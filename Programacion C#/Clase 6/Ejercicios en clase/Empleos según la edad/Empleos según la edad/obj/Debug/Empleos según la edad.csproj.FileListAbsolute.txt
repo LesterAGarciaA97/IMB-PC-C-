@@ -1,0 +1,6 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Empleos según la edad\bin\Debug\Empleos según la edad.exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Empleos según la edad\bin\Debug\Empleos según la edad.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Empleos según la edad\bin\Debug\Empleos según la edad.pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Empleos según la edad\obj\Debug\Empleos según la edad.csprojResolveAssemblyReference.cache
+C:\Users\programacion en\AppData\Local\Temporary Projects\Empleos según la edad\obj\Debug\Empleos según la edad.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Empleos según la edad\obj\Debug\Empleos según la edad.pdb

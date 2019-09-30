@@ -1,0 +1,6 @@
+C:\Users\Lester\Desktop\Determinando si es multiplo o no\Determinando si es multiplo o no\bin\Debug\Determinando si es multiplo o no.exe.config
+C:\Users\Lester\Desktop\Determinando si es multiplo o no\Determinando si es multiplo o no\bin\Debug\Determinando si es multiplo o no.exe
+C:\Users\Lester\Desktop\Determinando si es multiplo o no\Determinando si es multiplo o no\bin\Debug\Determinando si es multiplo o no.pdb
+C:\Users\Lester\Desktop\Determinando si es multiplo o no\Determinando si es multiplo o no\obj\Debug\Determinando si es multiplo o no.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Determinando si es multiplo o no\Determinando si es multiplo o no\obj\Debug\Determinando si es multiplo o no.exe
+C:\Users\Lester\Desktop\Determinando si es multiplo o no\Determinando si es multiplo o no\obj\Debug\Determinando si es multiplo o no.pdb

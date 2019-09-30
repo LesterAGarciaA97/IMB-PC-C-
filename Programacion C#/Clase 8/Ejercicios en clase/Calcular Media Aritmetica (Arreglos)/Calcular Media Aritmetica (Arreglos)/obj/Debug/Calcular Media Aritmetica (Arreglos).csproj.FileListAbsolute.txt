@@ -1,0 +1,6 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Calcular Media Aritmetica (Arreglos)\bin\Debug\Calcular Media Aritmetica (Arreglos).exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Calcular Media Aritmetica (Arreglos)\bin\Debug\Calcular Media Aritmetica (Arreglos).exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Calcular Media Aritmetica (Arreglos)\bin\Debug\Calcular Media Aritmetica (Arreglos).pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Calcular Media Aritmetica (Arreglos)\obj\Debug\Calcular Media Aritmetica (Arreglos).csprojResolveAssemblyReference.cache
+C:\Users\programacion en\AppData\Local\Temporary Projects\Calcular Media Aritmetica (Arreglos)\obj\Debug\Calcular Media Aritmetica (Arreglos).exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Calcular Media Aritmetica (Arreglos)\obj\Debug\Calcular Media Aritmetica (Arreglos).pdb

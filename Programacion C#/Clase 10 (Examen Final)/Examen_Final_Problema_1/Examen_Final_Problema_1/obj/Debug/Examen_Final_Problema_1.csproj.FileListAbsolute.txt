@@ -1,0 +1,12 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_1\bin\Debug\Examen_Final_Problema_1.exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_1\bin\Debug\Examen_Final_Problema_1.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_1\bin\Debug\Examen_Final_Problema_1.pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_1\obj\Debug\Examen_Final_Problema_1.csprojResolveAssemblyReference.cache
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_1\obj\Debug\Examen_Final_Problema_1.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_1\obj\Debug\Examen_Final_Problema_1.pdb
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_1\Examen_Final_Problema_1\bin\Debug\Examen_Final_Problema_1.exe.config
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_1\Examen_Final_Problema_1\obj\Debug\Examen_Final_Problema_1.exe
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_1\Examen_Final_Problema_1\obj\Debug\Examen_Final_Problema_1.pdb
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_1\Examen_Final_Problema_1\bin\Debug\Examen_Final_Problema_1.exe
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_1\Examen_Final_Problema_1\bin\Debug\Examen_Final_Problema_1.pdb
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_1\Examen_Final_Problema_1\obj\Debug\Examen_Final_Problema_1.csprojResolveAssemblyReference.cache

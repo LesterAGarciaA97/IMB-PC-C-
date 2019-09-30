@@ -1,0 +1,8 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Bucle infinito (Numeros enteros)\bin\Debug\Bucle infinito (Numeros enteros).exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Bucle infinito (Numeros enteros)\bin\Debug\Bucle infinito (Numeros enteros).exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Bucle infinito (Numeros enteros)\bin\Debug\Bucle infinito (Numeros enteros).pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Bucle infinito (Numeros enteros)\obj\Debug\Bucle infinito (Numeros enteros).exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Bucle infinito (Numeros enteros)\obj\Debug\Bucle infinito (Numeros enteros).pdb
+E:\Programacion C#\Clase 9\Ejercicios en clase\Bucle infinito (Numeros enteros)\Bucle infinito (Numeros enteros)\bin\Debug\Bucle infinito (Numeros enteros).exe.config
+E:\Programacion C#\Clase 9\Ejercicios en clase\Bucle infinito (Numeros enteros)\Bucle infinito (Numeros enteros)\obj\Debug\Bucle infinito (Numeros enteros).exe
+E:\Programacion C#\Clase 9\Ejercicios en clase\Bucle infinito (Numeros enteros)\Bucle infinito (Numeros enteros)\obj\Debug\Bucle infinito (Numeros enteros).pdb

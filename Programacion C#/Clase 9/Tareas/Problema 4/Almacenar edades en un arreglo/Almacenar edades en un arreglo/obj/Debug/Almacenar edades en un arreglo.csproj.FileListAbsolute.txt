@@ -1,0 +1,9 @@
+C:\Users\Lester\Desktop\Almacenar edades en un arreglo\Almacenar edades en un arreglo\bin\Debug\Almacenar edades en un arreglo.exe.config
+C:\Users\Lester\Desktop\Almacenar edades en un arreglo\Almacenar edades en un arreglo\bin\Debug\Almacenar edades en un arreglo.exe
+C:\Users\Lester\Desktop\Almacenar edades en un arreglo\Almacenar edades en un arreglo\bin\Debug\Almacenar edades en un arreglo.pdb
+C:\Users\Lester\Desktop\Almacenar edades en un arreglo\Almacenar edades en un arreglo\obj\Debug\Almacenar edades en un arreglo.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Almacenar edades en un arreglo\Almacenar edades en un arreglo\obj\Debug\Almacenar edades en un arreglo.exe
+C:\Users\Lester\Desktop\Almacenar edades en un arreglo\Almacenar edades en un arreglo\obj\Debug\Almacenar edades en un arreglo.pdb
+F:\Programacion C#\Clase 9\Tareas\Problema 4\Almacenar edades en un arreglo\Almacenar edades en un arreglo\bin\Debug\Almacenar edades en un arreglo.exe.config
+F:\Programacion C#\Clase 9\Tareas\Problema 4\Almacenar edades en un arreglo\Almacenar edades en un arreglo\obj\Debug\Almacenar edades en un arreglo.exe
+F:\Programacion C#\Clase 9\Tareas\Problema 4\Almacenar edades en un arreglo\Almacenar edades en un arreglo\obj\Debug\Almacenar edades en un arreglo.pdb

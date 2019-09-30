@@ -1,0 +1,12 @@
+C:\Users\Lester\Desktop\Validando contraseñas\Validando contraseñas\bin\Debug\Validando contraseñas.exe.config
+C:\Users\Lester\Desktop\Validando contraseñas\Validando contraseñas\bin\Debug\Validando contraseñas.exe
+C:\Users\Lester\Desktop\Validando contraseñas\Validando contraseñas\bin\Debug\Validando contraseñas.pdb
+C:\Users\Lester\Desktop\Validando contraseñas\Validando contraseñas\obj\Debug\Validando contraseñas.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Validando contraseñas\Validando contraseñas\obj\Debug\Validando contraseñas.exe
+C:\Users\Lester\Desktop\Validando contraseñas\Validando contraseñas\obj\Debug\Validando contraseñas.pdb
+F:\Programacion C#\Clase 4\Tareas\4\Validando contraseñas\Validando contraseñas\bin\Debug\Validando contraseñas.exe.config
+F:\Programacion C#\Clase 4\Tareas\4\Validando contraseñas\Validando contraseñas\obj\Debug\Validando contraseñas.exe
+F:\Programacion C#\Clase 4\Tareas\4\Validando contraseñas\Validando contraseñas\obj\Debug\Validando contraseñas.pdb
+F:\Programacion C#\Clase 4\Tareas\4\Validando contraseñas\Validando contraseñas\bin\Debug\Validando contraseñas.exe
+F:\Programacion C#\Clase 4\Tareas\4\Validando contraseñas\Validando contraseñas\bin\Debug\Validando contraseñas.pdb
+F:\Programacion C#\Clase 4\Tareas\4\Validando contraseñas\Validando contraseñas\obj\Debug\Validando contraseñas.csprojResolveAssemblyReference.cache

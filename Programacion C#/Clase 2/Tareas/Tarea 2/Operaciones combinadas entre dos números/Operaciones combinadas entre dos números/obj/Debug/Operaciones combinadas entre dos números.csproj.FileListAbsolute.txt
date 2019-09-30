@@ -1,0 +1,12 @@
+C:\Users\Lester\Desktop\Operaciones combinadas entre dos números\Operaciones combinadas entre dos números\bin\Debug\Operaciones combinadas entre dos números.exe.config
+C:\Users\Lester\Desktop\Operaciones combinadas entre dos números\Operaciones combinadas entre dos números\bin\Debug\Operaciones combinadas entre dos números.exe
+C:\Users\Lester\Desktop\Operaciones combinadas entre dos números\Operaciones combinadas entre dos números\bin\Debug\Operaciones combinadas entre dos números.pdb
+C:\Users\Lester\Desktop\Operaciones combinadas entre dos números\Operaciones combinadas entre dos números\obj\Debug\Operaciones combinadas entre dos números.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Operaciones combinadas entre dos números\Operaciones combinadas entre dos números\obj\Debug\Operaciones combinadas entre dos números.exe
+C:\Users\Lester\Desktop\Operaciones combinadas entre dos números\Operaciones combinadas entre dos números\obj\Debug\Operaciones combinadas entre dos números.pdb
+E:\Programacion C#\Clase 2\Tareas\Tarea 2\Operaciones combinadas entre dos números\Operaciones combinadas entre dos números\bin\Debug\Operaciones combinadas entre dos números.exe.config
+E:\Programacion C#\Clase 2\Tareas\Tarea 2\Operaciones combinadas entre dos números\Operaciones combinadas entre dos números\obj\Debug\Operaciones combinadas entre dos números.exe
+E:\Programacion C#\Clase 2\Tareas\Tarea 2\Operaciones combinadas entre dos números\Operaciones combinadas entre dos números\obj\Debug\Operaciones combinadas entre dos números.pdb
+E:\Programacion C#\Clase 2\Tareas\Tarea 2\Operaciones combinadas entre dos números\Operaciones combinadas entre dos números\bin\Debug\Operaciones combinadas entre dos números.exe
+E:\Programacion C#\Clase 2\Tareas\Tarea 2\Operaciones combinadas entre dos números\Operaciones combinadas entre dos números\bin\Debug\Operaciones combinadas entre dos números.pdb
+E:\Programacion C#\Clase 2\Tareas\Tarea 2\Operaciones combinadas entre dos números\Operaciones combinadas entre dos números\obj\Debug\Operaciones combinadas entre dos números.csprojResolveAssemblyReference.cache

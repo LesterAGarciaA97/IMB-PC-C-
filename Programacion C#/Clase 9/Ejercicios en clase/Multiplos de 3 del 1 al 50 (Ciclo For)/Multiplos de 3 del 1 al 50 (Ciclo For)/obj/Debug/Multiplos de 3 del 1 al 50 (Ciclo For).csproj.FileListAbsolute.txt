@@ -1,0 +1,5 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Multiplos de 3 del 1 al 50 (Ciclo For)\bin\Debug\Multiplos de 3 del 1 al 50 (Ciclo For).exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Multiplos de 3 del 1 al 50 (Ciclo For)\bin\Debug\Multiplos de 3 del 1 al 50 (Ciclo For).exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Multiplos de 3 del 1 al 50 (Ciclo For)\bin\Debug\Multiplos de 3 del 1 al 50 (Ciclo For).pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Multiplos de 3 del 1 al 50 (Ciclo For)\obj\Debug\Multiplos de 3 del 1 al 50 (Ciclo For).exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Multiplos de 3 del 1 al 50 (Ciclo For)\obj\Debug\Multiplos de 3 del 1 al 50 (Ciclo For).pdb

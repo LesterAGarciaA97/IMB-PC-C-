@@ -1,0 +1,12 @@
+C:\Users\Lester\Desktop\Suma de tres números\Suma de tres números\bin\Debug\Suma de tres números.exe.config
+C:\Users\Lester\Desktop\Suma de tres números\Suma de tres números\obj\Debug\Suma de tres números.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Suma de tres números\Suma de tres números\bin\Debug\Suma de tres números.exe
+C:\Users\Lester\Desktop\Suma de tres números\Suma de tres números\bin\Debug\Suma de tres números.pdb
+C:\Users\Lester\Desktop\Suma de tres números\Suma de tres números\obj\Debug\Suma de tres números.exe
+C:\Users\Lester\Desktop\Suma de tres números\Suma de tres números\obj\Debug\Suma de tres números.pdb
+E:\Programacion C#\Clase 2\Tareas\Tarea 3\Suma de tres números\Suma de tres números\bin\Debug\Suma de tres números.exe.config
+E:\Programacion C#\Clase 2\Tareas\Tarea 3\Suma de tres números\Suma de tres números\obj\Debug\Suma de tres números.exe
+E:\Programacion C#\Clase 2\Tareas\Tarea 3\Suma de tres números\Suma de tres números\obj\Debug\Suma de tres números.pdb
+E:\Programacion C#\Clase 2\Tareas\Tarea 3\Suma de tres números\Suma de tres números\bin\Debug\Suma de tres números.exe
+E:\Programacion C#\Clase 2\Tareas\Tarea 3\Suma de tres números\Suma de tres números\bin\Debug\Suma de tres números.pdb
+E:\Programacion C#\Clase 2\Tareas\Tarea 3\Suma de tres números\Suma de tres números\obj\Debug\Suma de tres números.csprojResolveAssemblyReference.cache

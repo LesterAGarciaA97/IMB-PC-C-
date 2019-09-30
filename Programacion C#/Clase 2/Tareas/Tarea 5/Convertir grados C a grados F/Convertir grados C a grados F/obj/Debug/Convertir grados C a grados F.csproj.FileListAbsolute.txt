@@ -1,0 +1,6 @@
+C:\Users\Lester\Desktop\Convertir grados C a grados F\Convertir grados C a grados F\bin\Debug\Convertir grados C a grados F.exe.config
+C:\Users\Lester\Desktop\Convertir grados C a grados F\Convertir grados C a grados F\bin\Debug\Convertir grados C a grados F.exe
+C:\Users\Lester\Desktop\Convertir grados C a grados F\Convertir grados C a grados F\bin\Debug\Convertir grados C a grados F.pdb
+C:\Users\Lester\Desktop\Convertir grados C a grados F\Convertir grados C a grados F\obj\Debug\Convertir grados C a grados F.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Convertir grados C a grados F\Convertir grados C a grados F\obj\Debug\Convertir grados C a grados F.exe
+C:\Users\Lester\Desktop\Convertir grados C a grados F\Convertir grados C a grados F\obj\Debug\Convertir grados C a grados F.pdb

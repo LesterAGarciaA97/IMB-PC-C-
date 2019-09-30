@@ -1,0 +1,12 @@
+C:\Users\Lester\Desktop\Numeros pares del 26 al 10\Numeros pares del 26 al 10\bin\Debug\Numeros pares del 26 al 10.exe.config
+C:\Users\Lester\Desktop\Numeros pares del 26 al 10\Numeros pares del 26 al 10\bin\Debug\Numeros pares del 26 al 10.exe
+C:\Users\Lester\Desktop\Numeros pares del 26 al 10\Numeros pares del 26 al 10\bin\Debug\Numeros pares del 26 al 10.pdb
+C:\Users\Lester\Desktop\Numeros pares del 26 al 10\Numeros pares del 26 al 10\obj\Debug\Numeros pares del 26 al 10.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Numeros pares del 26 al 10\Numeros pares del 26 al 10\obj\Debug\Numeros pares del 26 al 10.exe
+C:\Users\Lester\Desktop\Numeros pares del 26 al 10\Numeros pares del 26 al 10\obj\Debug\Numeros pares del 26 al 10.pdb
+F:\Programacion C#\Clase 4\Tareas\1\Numeros pares del 26 al 10\Numeros pares del 26 al 10\bin\Debug\Numeros pares del 26 al 10.exe.config
+F:\Programacion C#\Clase 4\Tareas\1\Numeros pares del 26 al 10\Numeros pares del 26 al 10\obj\Debug\Numeros pares del 26 al 10.exe
+F:\Programacion C#\Clase 4\Tareas\1\Numeros pares del 26 al 10\Numeros pares del 26 al 10\obj\Debug\Numeros pares del 26 al 10.pdb
+F:\Programacion C#\Clase 4\Tareas\1\Numeros pares del 26 al 10\Numeros pares del 26 al 10\bin\Debug\Numeros pares del 26 al 10.exe
+F:\Programacion C#\Clase 4\Tareas\1\Numeros pares del 26 al 10\Numeros pares del 26 al 10\bin\Debug\Numeros pares del 26 al 10.pdb
+F:\Programacion C#\Clase 4\Tareas\1\Numeros pares del 26 al 10\Numeros pares del 26 al 10\obj\Debug\Numeros pares del 26 al 10.csprojResolveAssemblyReference.cache

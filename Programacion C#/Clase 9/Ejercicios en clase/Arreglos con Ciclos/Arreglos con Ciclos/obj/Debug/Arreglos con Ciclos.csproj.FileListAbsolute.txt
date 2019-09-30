@@ -1,0 +1,6 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Arreglos con Ciclos\bin\Debug\Arreglos con Ciclos.exe.config
+E:\Programacion C#\Clase 9\Ejercicios en clase\Arreglos con Ciclos\Arreglos con Ciclos\bin\Debug\Arreglos con Ciclos.exe.config
+E:\Programacion C#\Clase 9\Ejercicios en clase\Arreglos con Ciclos\Arreglos con Ciclos\bin\Debug\Arreglos con Ciclos.exe
+E:\Programacion C#\Clase 9\Ejercicios en clase\Arreglos con Ciclos\Arreglos con Ciclos\bin\Debug\Arreglos con Ciclos.pdb
+E:\Programacion C#\Clase 9\Ejercicios en clase\Arreglos con Ciclos\Arreglos con Ciclos\obj\Debug\Arreglos con Ciclos.exe
+E:\Programacion C#\Clase 9\Ejercicios en clase\Arreglos con Ciclos\Arreglos con Ciclos\obj\Debug\Arreglos con Ciclos.pdb

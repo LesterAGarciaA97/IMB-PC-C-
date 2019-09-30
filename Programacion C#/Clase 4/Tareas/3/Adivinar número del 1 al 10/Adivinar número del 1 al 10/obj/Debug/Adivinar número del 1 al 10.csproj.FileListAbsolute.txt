@@ -1,0 +1,6 @@
+C:\Users\Lester\Desktop\Adivinar número del 1 al 10\Adivinar número del 1 al 10\bin\Debug\Adivinar número del 1 al 10.exe.config
+C:\Users\Lester\Desktop\Adivinar número del 1 al 10\Adivinar número del 1 al 10\bin\Debug\Adivinar número del 1 al 10.exe
+C:\Users\Lester\Desktop\Adivinar número del 1 al 10\Adivinar número del 1 al 10\bin\Debug\Adivinar número del 1 al 10.pdb
+C:\Users\Lester\Desktop\Adivinar número del 1 al 10\Adivinar número del 1 al 10\obj\Debug\Adivinar número del 1 al 10.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Adivinar número del 1 al 10\Adivinar número del 1 al 10\obj\Debug\Adivinar número del 1 al 10.exe
+C:\Users\Lester\Desktop\Adivinar número del 1 al 10\Adivinar número del 1 al 10\obj\Debug\Adivinar número del 1 al 10.pdb

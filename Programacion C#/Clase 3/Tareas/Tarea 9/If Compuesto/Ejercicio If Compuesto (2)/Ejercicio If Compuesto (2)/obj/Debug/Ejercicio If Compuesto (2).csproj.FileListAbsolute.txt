@@ -1,0 +1,6 @@
+C:\Users\t213\Desktop\Ejercicio If Compuesto (2)\Ejercicio If Compuesto (2)\bin\Debug\Ejercicio If Compuesto (2).exe.config
+C:\Users\t213\Desktop\Ejercicio If Compuesto (2)\Ejercicio If Compuesto (2)\bin\Debug\Ejercicio If Compuesto (2).exe
+C:\Users\t213\Desktop\Ejercicio If Compuesto (2)\Ejercicio If Compuesto (2)\bin\Debug\Ejercicio If Compuesto (2).pdb
+C:\Users\t213\Desktop\Ejercicio If Compuesto (2)\Ejercicio If Compuesto (2)\obj\Debug\Ejercicio If Compuesto (2).csprojResolveAssemblyReference.cache
+C:\Users\t213\Desktop\Ejercicio If Compuesto (2)\Ejercicio If Compuesto (2)\obj\Debug\Ejercicio If Compuesto (2).exe
+C:\Users\t213\Desktop\Ejercicio If Compuesto (2)\Ejercicio If Compuesto (2)\obj\Debug\Ejercicio If Compuesto (2).pdb

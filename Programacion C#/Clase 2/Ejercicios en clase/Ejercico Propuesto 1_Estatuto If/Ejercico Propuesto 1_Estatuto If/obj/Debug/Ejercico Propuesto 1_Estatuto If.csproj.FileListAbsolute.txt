@@ -1,0 +1,9 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ejercico Propuesto 1_Estatuto If\bin\Debug\Ejercico Propuesto 1_Estatuto If.exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ejercico Propuesto 1_Estatuto If\bin\Debug\Ejercico Propuesto 1_Estatuto If.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ejercico Propuesto 1_Estatuto If\bin\Debug\Ejercico Propuesto 1_Estatuto If.pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ejercico Propuesto 1_Estatuto If\obj\Debug\Ejercico Propuesto 1_Estatuto If.csprojResolveAssemblyReference.cache
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ejercico Propuesto 1_Estatuto If\obj\Debug\Ejercico Propuesto 1_Estatuto If.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ejercico Propuesto 1_Estatuto If\obj\Debug\Ejercico Propuesto 1_Estatuto If.pdb
+E:\Programacion C#\Clase 2\Ejercico Propuesto 1_Estatuto If\Ejercico Propuesto 1_Estatuto If\bin\Debug\Ejercico Propuesto 1_Estatuto If.exe.config
+E:\Programacion C#\Clase 2\Ejercico Propuesto 1_Estatuto If\Ejercico Propuesto 1_Estatuto If\obj\Debug\Ejercico Propuesto 1_Estatuto If.exe
+E:\Programacion C#\Clase 2\Ejercico Propuesto 1_Estatuto If\Ejercico Propuesto 1_Estatuto If\obj\Debug\Ejercico Propuesto 1_Estatuto If.pdb

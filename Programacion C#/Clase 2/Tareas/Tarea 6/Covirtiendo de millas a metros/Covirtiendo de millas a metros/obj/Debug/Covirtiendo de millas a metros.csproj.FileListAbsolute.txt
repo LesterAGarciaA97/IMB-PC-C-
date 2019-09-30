@@ -1,0 +1,6 @@
+C:\Users\Lester\Desktop\Covirtiendo de millas a metros\Covirtiendo de millas a metros\bin\Debug\Covirtiendo de millas a metros.exe.config
+C:\Users\Lester\Desktop\Covirtiendo de millas a metros\Covirtiendo de millas a metros\bin\Debug\Covirtiendo de millas a metros.exe
+C:\Users\Lester\Desktop\Covirtiendo de millas a metros\Covirtiendo de millas a metros\bin\Debug\Covirtiendo de millas a metros.pdb
+C:\Users\Lester\Desktop\Covirtiendo de millas a metros\Covirtiendo de millas a metros\obj\Debug\Covirtiendo de millas a metros.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Covirtiendo de millas a metros\Covirtiendo de millas a metros\obj\Debug\Covirtiendo de millas a metros.exe
+C:\Users\Lester\Desktop\Covirtiendo de millas a metros\Covirtiendo de millas a metros\obj\Debug\Covirtiendo de millas a metros.pdb

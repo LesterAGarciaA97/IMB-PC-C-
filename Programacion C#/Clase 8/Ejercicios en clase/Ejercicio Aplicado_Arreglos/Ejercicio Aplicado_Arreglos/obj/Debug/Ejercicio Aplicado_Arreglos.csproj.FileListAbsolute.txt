@@ -1,0 +1,6 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ejercicio Aplicado_Arreglos\bin\Debug\Ejercicio Aplicado_Arreglos.exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ejercicio Aplicado_Arreglos\bin\Debug\Ejercicio Aplicado_Arreglos.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ejercicio Aplicado_Arreglos\bin\Debug\Ejercicio Aplicado_Arreglos.pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ejercicio Aplicado_Arreglos\obj\Debug\Ejercicio Aplicado_Arreglos.csprojResolveAssemblyReference.cache
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ejercicio Aplicado_Arreglos\obj\Debug\Ejercicio Aplicado_Arreglos.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Ejercicio Aplicado_Arreglos\obj\Debug\Ejercicio Aplicado_Arreglos.pdb

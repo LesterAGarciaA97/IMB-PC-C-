@@ -1,0 +1,12 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estructura Case\bin\Debug\Estructura Case.exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estructura Case\bin\Debug\Estructura Case.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estructura Case\bin\Debug\Estructura Case.pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estructura Case\obj\Debug\Estructura Case.csprojResolveAssemblyReference.cache
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estructura Case\obj\Debug\Estructura Case.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Estructura Case\obj\Debug\Estructura Case.pdb
+E:\Programacion C#\Clase 6\Ejercicios en clase\Estructura Case\Estructura Case\bin\Debug\Estructura Case.exe.config
+E:\Programacion C#\Clase 6\Ejercicios en clase\Estructura Case\Estructura Case\obj\Debug\Estructura Case.exe
+E:\Programacion C#\Clase 6\Ejercicios en clase\Estructura Case\Estructura Case\obj\Debug\Estructura Case.pdb
+E:\Programacion C#\Clase 6\Ejercicios en clase\Estructura Case\Estructura Case\bin\Debug\Estructura Case.exe
+E:\Programacion C#\Clase 6\Ejercicios en clase\Estructura Case\Estructura Case\bin\Debug\Estructura Case.pdb
+E:\Programacion C#\Clase 6\Ejercicios en clase\Estructura Case\Estructura Case\obj\Debug\Estructura Case.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Prueba_Final_Parte3\bin\Debug\Prueba_Final_Parte3.exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Prueba_Final_Parte3\bin\Debug\Prueba_Final_Parte3.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Prueba_Final_Parte3\bin\Debug\Prueba_Final_Parte3.pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Prueba_Final_Parte3\obj\Debug\Prueba_Final_Parte3.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Prueba_Final_Parte3\obj\Debug\Prueba_Final_Parte3.pdb
+E:\Programacion C#\Clase 5\Prueba_Final_Parte3\Prueba_Final_Parte3\bin\Debug\Prueba_Final_Parte3.exe.config
+E:\Programacion C#\Clase 5\Prueba_Final_Parte3\Prueba_Final_Parte3\obj\Debug\Prueba_Final_Parte3.exe
+E:\Programacion C#\Clase 5\Prueba_Final_Parte3\Prueba_Final_Parte3\obj\Debug\Prueba_Final_Parte3.pdb

@@ -1,0 +1,6 @@
+C:\Users\admin1\Desktop\Multiplo de dos o de tres\Multiplo de dos o de tres\bin\Debug\Multiplo de dos o de tres.exe.config
+C:\Users\admin1\Desktop\Multiplo de dos o de tres\Multiplo de dos o de tres\bin\Debug\Multiplo de dos o de tres.exe
+C:\Users\admin1\Desktop\Multiplo de dos o de tres\Multiplo de dos o de tres\bin\Debug\Multiplo de dos o de tres.pdb
+C:\Users\admin1\Desktop\Multiplo de dos o de tres\Multiplo de dos o de tres\obj\Debug\Multiplo de dos o de tres.csprojResolveAssemblyReference.cache
+C:\Users\admin1\Desktop\Multiplo de dos o de tres\Multiplo de dos o de tres\obj\Debug\Multiplo de dos o de tres.exe
+C:\Users\admin1\Desktop\Multiplo de dos o de tres\Multiplo de dos o de tres\obj\Debug\Multiplo de dos o de tres.pdb

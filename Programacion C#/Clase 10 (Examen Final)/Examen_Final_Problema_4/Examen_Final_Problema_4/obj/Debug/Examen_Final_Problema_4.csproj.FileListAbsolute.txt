@@ -1,0 +1,2 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_4\bin\Debug\Examen_Final_Problema_4.exe.config
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_4\Examen_Final_Problema_4\bin\Debug\Examen_Final_Problema_4.exe.config

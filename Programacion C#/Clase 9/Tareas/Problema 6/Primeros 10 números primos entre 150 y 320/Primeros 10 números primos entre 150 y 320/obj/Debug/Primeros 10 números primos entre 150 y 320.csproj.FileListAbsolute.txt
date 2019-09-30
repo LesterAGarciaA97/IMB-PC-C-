@@ -1,0 +1,6 @@
+C:\Users\Lester\Desktop\Primeros 10 números primos entre 150 y 320\Primeros 10 números primos entre 150 y 320\bin\Debug\Primeros 10 números primos entre 150 y 320.exe.config
+C:\Users\Lester\Desktop\Primeros 10 números primos entre 150 y 320\Primeros 10 números primos entre 150 y 320\bin\Debug\Primeros 10 números primos entre 150 y 320.exe
+C:\Users\Lester\Desktop\Primeros 10 números primos entre 150 y 320\Primeros 10 números primos entre 150 y 320\bin\Debug\Primeros 10 números primos entre 150 y 320.pdb
+C:\Users\Lester\Desktop\Primeros 10 números primos entre 150 y 320\Primeros 10 números primos entre 150 y 320\obj\Debug\Primeros 10 números primos entre 150 y 320.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Primeros 10 números primos entre 150 y 320\Primeros 10 números primos entre 150 y 320\obj\Debug\Primeros 10 números primos entre 150 y 320.exe
+C:\Users\Lester\Desktop\Primeros 10 números primos entre 150 y 320\Primeros 10 números primos entre 150 y 320\obj\Debug\Primeros 10 números primos entre 150 y 320.pdb

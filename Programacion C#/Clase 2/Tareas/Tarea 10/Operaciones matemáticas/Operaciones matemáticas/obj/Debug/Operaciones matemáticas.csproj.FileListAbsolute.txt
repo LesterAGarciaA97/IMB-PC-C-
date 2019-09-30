@@ -1,0 +1,6 @@
+C:\Users\Lester\Desktop\Operaciones matemáticas\Operaciones matemáticas\bin\Debug\Operaciones matemáticas.exe.config
+C:\Users\Lester\Desktop\Operaciones matemáticas\Operaciones matemáticas\bin\Debug\Operaciones matemáticas.exe
+C:\Users\Lester\Desktop\Operaciones matemáticas\Operaciones matemáticas\bin\Debug\Operaciones matemáticas.pdb
+C:\Users\Lester\Desktop\Operaciones matemáticas\Operaciones matemáticas\obj\Debug\Operaciones matemáticas.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Operaciones matemáticas\Operaciones matemáticas\obj\Debug\Operaciones matemáticas.exe
+C:\Users\Lester\Desktop\Operaciones matemáticas\Operaciones matemáticas\obj\Debug\Operaciones matemáticas.pdb

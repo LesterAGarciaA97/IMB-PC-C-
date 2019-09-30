@@ -1,0 +1,6 @@
+C:\Users\admin1\Desktop\Escribiendo el número ingresado\Escribiendo el número ingresado\bin\Debug\Escribiendo el número ingresado.exe.config
+C:\Users\admin1\Desktop\Escribiendo el número ingresado\Escribiendo el número ingresado\obj\Debug\Escribiendo el número ingresado.csprojResolveAssemblyReference.cache
+C:\Users\admin1\Desktop\Escribiendo el número ingresado\Escribiendo el número ingresado\bin\Debug\Escribiendo el número ingresado.exe
+C:\Users\admin1\Desktop\Escribiendo el número ingresado\Escribiendo el número ingresado\bin\Debug\Escribiendo el número ingresado.pdb
+C:\Users\admin1\Desktop\Escribiendo el número ingresado\Escribiendo el número ingresado\obj\Debug\Escribiendo el número ingresado.exe
+C:\Users\admin1\Desktop\Escribiendo el número ingresado\Escribiendo el número ingresado\obj\Debug\Escribiendo el número ingresado.pdb

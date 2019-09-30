@@ -1,0 +1,6 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Variable ReadLine_Clase2\bin\Debug\Variable ReadLine_Clase2.exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Variable ReadLine_Clase2\bin\Debug\Variable ReadLine_Clase2.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Variable ReadLine_Clase2\bin\Debug\Variable ReadLine_Clase2.pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Variable ReadLine_Clase2\obj\Debug\Variable ReadLine_Clase2.csprojResolveAssemblyReference.cache
+C:\Users\programacion en\AppData\Local\Temporary Projects\Variable ReadLine_Clase2\obj\Debug\Variable ReadLine_Clase2.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Variable ReadLine_Clase2\obj\Debug\Variable ReadLine_Clase2.pdb

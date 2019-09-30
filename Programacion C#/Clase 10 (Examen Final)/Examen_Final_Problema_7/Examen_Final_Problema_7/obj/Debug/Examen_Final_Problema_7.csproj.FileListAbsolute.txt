@@ -1,0 +1,16 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_7\bin\Debug\Examen_Final_Problema_7.exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_7\bin\Debug\Examen_Final_Problema_7.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_7\bin\Debug\Examen_Final_Problema_7.pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_7\obj\Debug\Examen_Final_Problema_7.Form1.resources
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_7\obj\Debug\Examen_Final_Problema_7.Properties.Resources.resources
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_7\obj\Debug\Examen_Final_Problema_7.csproj.GenerateResource.Cache
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_7\obj\Debug\Examen_Final_Problema_7.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Examen_Final_Problema_7\obj\Debug\Examen_Final_Problema_7.pdb
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_7\Examen_Final_Problema_7\bin\Debug\Examen_Final_Problema_7.exe.config
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_7\Examen_Final_Problema_7\obj\Debug\Examen_Final_Problema_7.exe
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_7\Examen_Final_Problema_7\obj\Debug\Examen_Final_Problema_7.pdb
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_7\Examen_Final_Problema_7\bin\Debug\Examen_Final_Problema_7.exe
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_7\Examen_Final_Problema_7\bin\Debug\Examen_Final_Problema_7.pdb
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_7\Examen_Final_Problema_7\obj\Debug\Examen_Final_Problema_7.Form1.resources
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_7\Examen_Final_Problema_7\obj\Debug\Examen_Final_Problema_7.Properties.Resources.resources
+E:\Programacion C#\Clase 10 (Examen Final)\Examen_Final_Problema_7\Examen_Final_Problema_7\obj\Debug\Examen_Final_Problema_7.csproj.GenerateResource.Cache

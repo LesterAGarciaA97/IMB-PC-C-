@@ -1,0 +1,6 @@
+C:\Users\Lester\Desktop\Convertidor de Q a $\Convertidor de Q a $\bin\Debug\Convertidor de Q a $.exe.config
+C:\Users\Lester\Desktop\Convertidor de Q a $\Convertidor de Q a $\obj\Debug\Convertidor de Q a $.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Convertidor de Q a $\Convertidor de Q a $\bin\Debug\Convertidor de Q a $.exe
+C:\Users\Lester\Desktop\Convertidor de Q a $\Convertidor de Q a $\bin\Debug\Convertidor de Q a $.pdb
+C:\Users\Lester\Desktop\Convertidor de Q a $\Convertidor de Q a $\obj\Debug\Convertidor de Q a $.exe
+C:\Users\Lester\Desktop\Convertidor de Q a $\Convertidor de Q a $\obj\Debug\Convertidor de Q a $.pdb

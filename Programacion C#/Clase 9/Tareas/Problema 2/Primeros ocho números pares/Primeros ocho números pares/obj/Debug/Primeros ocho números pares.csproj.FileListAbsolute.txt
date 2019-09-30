@@ -1,0 +1,6 @@
+C:\Users\Lester\Desktop\Primeros ocho números pares\Primeros ocho números pares\bin\Debug\Primeros ocho números pares.exe.config
+C:\Users\Lester\Desktop\Primeros ocho números pares\Primeros ocho números pares\bin\Debug\Primeros ocho números pares.exe
+C:\Users\Lester\Desktop\Primeros ocho números pares\Primeros ocho números pares\bin\Debug\Primeros ocho números pares.pdb
+C:\Users\Lester\Desktop\Primeros ocho números pares\Primeros ocho números pares\obj\Debug\Primeros ocho números pares.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Primeros ocho números pares\Primeros ocho números pares\obj\Debug\Primeros ocho números pares.exe
+C:\Users\Lester\Desktop\Primeros ocho números pares\Primeros ocho números pares\obj\Debug\Primeros ocho números pares.pdb

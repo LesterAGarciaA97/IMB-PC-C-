@@ -1,0 +1,6 @@
+C:\Users\admin1\Desktop\Tablas de multiplicar con Switch\Tablas de multiplicar con Switch\bin\Debug\Tablas de multiplicar con Switch.exe.config
+C:\Users\admin1\Desktop\Tablas de multiplicar con Switch\Tablas de multiplicar con Switch\bin\Debug\Tablas de multiplicar con Switch.exe
+C:\Users\admin1\Desktop\Tablas de multiplicar con Switch\Tablas de multiplicar con Switch\bin\Debug\Tablas de multiplicar con Switch.pdb
+C:\Users\admin1\Desktop\Tablas de multiplicar con Switch\Tablas de multiplicar con Switch\obj\Debug\Tablas de multiplicar con Switch.csprojResolveAssemblyReference.cache
+C:\Users\admin1\Desktop\Tablas de multiplicar con Switch\Tablas de multiplicar con Switch\obj\Debug\Tablas de multiplicar con Switch.exe
+C:\Users\admin1\Desktop\Tablas de multiplicar con Switch\Tablas de multiplicar con Switch\obj\Debug\Tablas de multiplicar con Switch.pdb

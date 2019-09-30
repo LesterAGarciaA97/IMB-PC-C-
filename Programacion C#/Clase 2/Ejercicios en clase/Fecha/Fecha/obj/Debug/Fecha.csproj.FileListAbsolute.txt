@@ -1,0 +1,5 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Fecha\bin\Debug\Fecha.exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Fecha\bin\Debug\Fecha.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Fecha\bin\Debug\Fecha.pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Fecha\obj\Debug\Fecha.exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Fecha\obj\Debug\Fecha.pdb

@@ -1,0 +1,9 @@
+C:\Users\Lester\Desktop\Lab1_Lester_García_1003115\Lab1_Lester_García_1003115\bin\Debug\Lab1_Lester_García_1003115.exe.config
+C:\Users\Lester\Desktop\Lab1_Lester_García_1003115\Lab1_Lester_García_1003115\bin\Debug\Lab1_Lester_García_1003115.exe
+C:\Users\Lester\Desktop\Lab1_Lester_García_1003115\Lab1_Lester_García_1003115\bin\Debug\Lab1_Lester_García_1003115.pdb
+C:\Users\Lester\Desktop\Lab1_Lester_García_1003115\Lab1_Lester_García_1003115\obj\Debug\Lab1_Lester_García_1003115.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Lab1_Lester_García_1003115\Lab1_Lester_García_1003115\obj\Debug\Lab1_Lester_García_1003115.Form1.resources
+C:\Users\Lester\Desktop\Lab1_Lester_García_1003115\Lab1_Lester_García_1003115\obj\Debug\Lab1_Lester_García_1003115.Properties.Resources.resources
+C:\Users\Lester\Desktop\Lab1_Lester_García_1003115\Lab1_Lester_García_1003115\obj\Debug\Lab1_Lester_García_1003115.csproj.GenerateResource.Cache
+C:\Users\Lester\Desktop\Lab1_Lester_García_1003115\Lab1_Lester_García_1003115\obj\Debug\Lab1_Lester_García_1003115.exe
+C:\Users\Lester\Desktop\Lab1_Lester_García_1003115\Lab1_Lester_García_1003115\obj\Debug\Lab1_Lester_García_1003115.pdb

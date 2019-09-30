@@ -1,0 +1,5 @@
+C:\Users\programacion en\AppData\Local\Temporary Projects\Bucle Infinito (Hola)\bin\Debug\Bucle Infinito (Hola).exe.config
+C:\Users\programacion en\AppData\Local\Temporary Projects\Bucle Infinito (Hola)\bin\Debug\Bucle Infinito (Hola).exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Bucle Infinito (Hola)\bin\Debug\Bucle Infinito (Hola).pdb
+C:\Users\programacion en\AppData\Local\Temporary Projects\Bucle Infinito (Hola)\obj\Debug\Bucle Infinito (Hola).exe
+C:\Users\programacion en\AppData\Local\Temporary Projects\Bucle Infinito (Hola)\obj\Debug\Bucle Infinito (Hola).pdb

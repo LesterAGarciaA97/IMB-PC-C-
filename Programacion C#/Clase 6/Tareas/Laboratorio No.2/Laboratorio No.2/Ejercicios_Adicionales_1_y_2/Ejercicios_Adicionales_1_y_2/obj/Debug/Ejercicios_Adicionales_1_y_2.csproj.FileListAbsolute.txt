@@ -1,0 +1,21 @@
+c:\users\admin1\documents\visual studio 2013\Projects\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\bin\Debug\Ejercicios_Adicionales_1_y_2.exe.config
+c:\users\admin1\documents\visual studio 2013\Projects\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\bin\Debug\Ejercicios_Adicionales_1_y_2.exe
+c:\users\admin1\documents\visual studio 2013\Projects\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\bin\Debug\Ejercicios_Adicionales_1_y_2.pdb
+c:\users\admin1\documents\visual studio 2013\Projects\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\obj\Debug\Ejercicios_Adicionales_1_y_2.csprojResolveAssemblyReference.cache
+c:\users\admin1\documents\visual studio 2013\Projects\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\obj\Debug\Ejercicios_Adicionales_1_y_2.Form1.resources
+c:\users\admin1\documents\visual studio 2013\Projects\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\obj\Debug\Ejercicios_Adicionales_1_y_2.Properties.Resources.resources
+c:\users\admin1\documents\visual studio 2013\Projects\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\obj\Debug\Ejercicios_Adicionales_1_y_2.csproj.GenerateResource.Cache
+c:\users\admin1\documents\visual studio 2013\Projects\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\obj\Debug\Ejercicios_Adicionales_1_y_2.exe
+c:\users\admin1\documents\visual studio 2013\Projects\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\obj\Debug\Ejercicios_Adicionales_1_y_2.pdb
+C:\Users\admin1\Desktop\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\bin\Debug\Ejercicios_Adicionales_1_y_2.exe.config
+C:\Users\admin1\Desktop\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\obj\Debug\Ejercicios_Adicionales_1_y_2.exe
+C:\Users\admin1\Desktop\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\obj\Debug\Ejercicios_Adicionales_1_y_2.pdb
+C:\Users\Lester\Desktop\Laboratorio No.2\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\bin\Debug\Ejercicios_Adicionales_1_y_2.exe.config
+C:\Users\Lester\Desktop\Laboratorio No.2\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\obj\Debug\Ejercicios_Adicionales_1_y_2.exe
+C:\Users\Lester\Desktop\Laboratorio No.2\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\obj\Debug\Ejercicios_Adicionales_1_y_2.pdb
+C:\Users\Lester\Desktop\Laboratorio No.2\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\bin\Debug\Ejercicios_Adicionales_1_y_2.exe
+C:\Users\Lester\Desktop\Laboratorio No.2\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\bin\Debug\Ejercicios_Adicionales_1_y_2.pdb
+C:\Users\Lester\Desktop\Laboratorio No.2\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\obj\Debug\Ejercicios_Adicionales_1_y_2.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Laboratorio No.2\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\obj\Debug\Ejercicios_Adicionales_1_y_2.Form1.resources
+C:\Users\Lester\Desktop\Laboratorio No.2\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\obj\Debug\Ejercicios_Adicionales_1_y_2.Properties.Resources.resources
+C:\Users\Lester\Desktop\Laboratorio No.2\Ejercicios_Adicionales_1_y_2\Ejercicios_Adicionales_1_y_2\obj\Debug\Ejercicios_Adicionales_1_y_2.csproj.GenerateResource.Cache

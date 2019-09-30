@@ -1,0 +1,18 @@
+C:\Users\Lester\Desktop\Asignacion de rangos\Asignacion de rangos\bin\Debug\Asignacion de rangos.exe.config
+C:\Users\Lester\Desktop\Asignacion de rangos\Asignacion de rangos\bin\Debug\Asignacion de rangos.exe
+C:\Users\Lester\Desktop\Asignacion de rangos\Asignacion de rangos\bin\Debug\Asignacion de rangos.pdb
+C:\Users\Lester\Desktop\Asignacion de rangos\Asignacion de rangos\obj\Debug\Asignacion de rangos.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Asignacion de rangos\Asignacion de rangos\obj\Debug\Asignacion_de_rangos.Form1.resources
+C:\Users\Lester\Desktop\Asignacion de rangos\Asignacion de rangos\obj\Debug\Asignacion_de_rangos.Properties.Resources.resources
+C:\Users\Lester\Desktop\Asignacion de rangos\Asignacion de rangos\obj\Debug\Asignacion de rangos.csproj.GenerateResource.Cache
+C:\Users\Lester\Desktop\Asignacion de rangos\Asignacion de rangos\obj\Debug\Asignacion de rangos.exe
+C:\Users\Lester\Desktop\Asignacion de rangos\Asignacion de rangos\obj\Debug\Asignacion de rangos.pdb
+E:\Programacion C#\Clase 7\Tareas\Asignacion de rangos\Asignacion de rangos\bin\Debug\Asignacion de rangos.exe.config
+E:\Programacion C#\Clase 7\Tareas\Asignacion de rangos\Asignacion de rangos\obj\Debug\Asignacion de rangos.exe
+E:\Programacion C#\Clase 7\Tareas\Asignacion de rangos\Asignacion de rangos\obj\Debug\Asignacion de rangos.pdb
+E:\Programacion C#\Clase 7\Tareas\Asignacion de rangos\Asignacion de rangos\bin\Debug\Asignacion de rangos.exe
+E:\Programacion C#\Clase 7\Tareas\Asignacion de rangos\Asignacion de rangos\bin\Debug\Asignacion de rangos.pdb
+E:\Programacion C#\Clase 7\Tareas\Asignacion de rangos\Asignacion de rangos\obj\Debug\Asignacion de rangos.csprojResolveAssemblyReference.cache
+E:\Programacion C#\Clase 7\Tareas\Asignacion de rangos\Asignacion de rangos\obj\Debug\Asignacion_de_rangos.Form1.resources
+E:\Programacion C#\Clase 7\Tareas\Asignacion de rangos\Asignacion de rangos\obj\Debug\Asignacion_de_rangos.Properties.Resources.resources
+E:\Programacion C#\Clase 7\Tareas\Asignacion de rangos\Asignacion de rangos\obj\Debug\Asignacion de rangos.csproj.GenerateResource.Cache

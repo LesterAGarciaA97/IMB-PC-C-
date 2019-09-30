@@ -1,0 +1,6 @@
+C:\Users\Lester\Desktop\Números descendentes del 15 al 5\Números descendentes del 15 al 5\bin\Debug\Números descendentes del 15 al 5.exe.config
+C:\Users\Lester\Desktop\Números descendentes del 15 al 5\Números descendentes del 15 al 5\bin\Debug\Números descendentes del 15 al 5.exe
+C:\Users\Lester\Desktop\Números descendentes del 15 al 5\Números descendentes del 15 al 5\bin\Debug\Números descendentes del 15 al 5.pdb
+C:\Users\Lester\Desktop\Números descendentes del 15 al 5\Números descendentes del 15 al 5\obj\Debug\Números descendentes del 15 al 5.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Números descendentes del 15 al 5\Números descendentes del 15 al 5\obj\Debug\Números descendentes del 15 al 5.exe
+C:\Users\Lester\Desktop\Números descendentes del 15 al 5\Números descendentes del 15 al 5\obj\Debug\Números descendentes del 15 al 5.pdb
